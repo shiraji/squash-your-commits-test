@@ -5,3 +5,5 @@ Allow merge commits
 Allow squash merging
 Allow squash merging 1
 Allow squash merging 2
+default 1
+default 2
